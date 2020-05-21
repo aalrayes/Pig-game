@@ -26,7 +26,6 @@ var stillPlaying = true;
  var currentCount1 = document.querySelector("#current-0");
  var currentCount2 = document.querySelector("#current-1");
 
-
 function init(){
 
  scores = [0,0];
@@ -49,11 +48,6 @@ function init(){
 
 }
 init();
-//----------------------------------------------------
-
-function roleDice(){}
-function newGame(){}
-function holdScore(){}
 
 //----------------ROlling function--------------------------
 
